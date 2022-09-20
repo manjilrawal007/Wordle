@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="guess_4_letter_word" />
+    <string name="button" />
+    <string name="guess_1" />
+    <string name="guess_1_check" />
+    <string name="guess_2" />
+    <string name="guess_2_check" />
+    <string name="guess_3" />
+    <string name="guess_3_check" />
+</resources>
